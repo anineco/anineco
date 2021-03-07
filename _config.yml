@@ -22,8 +22,8 @@ title: あにねこ電脳覚書
 email: anineco@nifty.com
 description: >- # this means to ignore newlines until "baseurl:"
   サイト作成のためのプログラミング言語やツール、開発環境に関する備忘録です。
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://anineco.nyanta.jp" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/anineco" # the subpath of your site, e.g. /blog
+url: "https://anineco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anineco_org
 github_username:  anineco
 
